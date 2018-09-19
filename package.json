@@ -8,7 +8,7 @@
     "start": "node server/server.js"
   },
   "engines": {
-    "10.7.0"
+    "node": "10.7.0"
   },
   "author": "",
   "license": "ISC",
